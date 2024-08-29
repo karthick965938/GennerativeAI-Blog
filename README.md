@@ -38,7 +38,7 @@ Course Link: [Encoder-Decoder Architecture| Google Cloud Skills Boost](https://w
 
 ### Attention Mechanism
 
-[Attention Mechanism](#encoder-decoder) You will learn how attention works, and how it can be used to improve the performance of a variety of machine-learning tasks, including machine translation, text summarization, and question-answering.
+[Attention Mechanism](#attention-mechanism) You will learn how attention works, and how it can be used to improve the performance of a variety of machine-learning tasks, including machine translation, text summarization, and question-answering.
 
 Course Link: [Attention Mechanism| Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/537)
 

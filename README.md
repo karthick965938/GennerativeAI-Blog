@@ -18,6 +18,12 @@ Course Link: [Introduction to Large Language Models | Google Cloud Skills Boost]
 
 Course Link: [Introduction to Responsible AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/554)
 
+### Generative AI Fundamentals
+
+[Generative AI Fundamentals](#generative-ai-fundamentals) This is an introductory level microlearning course aimed at explaining what responsible AI is, why it's important, and how Google implements responsible AI in its products. It also introduces Google's 7 AI principles.
+
+Course Link: [Generative AI Fundamentals| Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/556)
+
 ### Introduction to Image Generation
 
 [Introduction to Responsible AI](#image-generation) This course introduces diffusion models, a family of machine learning models that recently showed promise in the image generation space. Diffusion models draw inspiration from physics, specifically thermodynamics.
